@@ -46,8 +46,6 @@ if __name__ == "__main__":
     # 小項目用フォーマット
     title_format = workbook.add_format({
         'bold': 1,
-        # 'border': 1,
-        # 'align': 'center',
         'valign': 'vcenter',
         'fg_color': '#BFBFBF'})
 
@@ -83,6 +81,5 @@ if __name__ == "__main__":
         count += 1
         page_margin_top = 1
     
-    #worksheet.fit_to_pages(80, 10)
     workbook.close()
 

@@ -3,3 +3,4 @@ image/*
 out.xlsx
 
 tmp.py
+__pycache__/*

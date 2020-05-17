@@ -1,5 +1,8 @@
 text = [
     {
+        'primary-title': 'インストール'
+    },
+    {
         'title': '(1) aaaaaa',
         'discription': [
             'bbbbbbbbbb'
